@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>MacReach Server</title>
+        <link>https://antons81.github.io/app-updates/macreach-server-appcast.xml</link>
+        <description>MacReach Server Updates</description>
+        <language>en</language>
+        <item>
+            <title>MacReach Server 1.0</title>
+            <pubDate>Tue, 27 May 2026 00:00:00 +0000</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>MacReach Server 1.0</h2>
+                <ul>
+                    <li>Initial release</li>
+                    <li>Volume control from iPhone</li>
+                    <li>Media controls (play/pause/next/prev)</li>
+                    <li>Sleep & Lock screen</li>
+                    <li>Battery monitoring</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://antons81.github.io/app-updates/MacReach-Server-1.0.dmg"
+                sparkle:edSignature="ПОДПИСЬ_ЗДЕСЬ"
+                length="0"
+                type="application/octet-stream"
+            />
+        </item>
+    </channel>
+</rss>
