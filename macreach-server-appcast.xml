@@ -14,11 +14,10 @@
             <description><![CDATA[
                 <h2>MacReach Server 1.1</h2>
                 <ul>
-                    <li>Initial release</li>
-                    <li>Volume control from iPhone</li>
-                    <li>Media controls (play/pause/next/prev)</li>
-                    <li>Sleep & Lock screen</li>
-                    <li>Battery monitoring</li>
+                    <li>Real-time play/pause status for Apple Music, Spotify, and supported web players</li>
+                    <li>Mac system metrics: CPU, memory, and uptime</li>
+                    <li>Active app indicator</li>
+                    <li>Improved connection stability</li>
                 </ul>
             ]]></description>
             <enclosure
