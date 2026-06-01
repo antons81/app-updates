@@ -12,7 +12,7 @@
             <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
             <description><![CDATA[
-                <h2>MacReach Server 1.0</h2>
+                <h2>MacReach Server 1.1</h2>
                 <ul>
                     <li>Initial release</li>
                     <li>Volume control from iPhone</li>
@@ -22,7 +22,7 @@
                 </ul>
             ]]></description>
             <enclosure
-                url="https://antons81.github.io/app-updates/MacReach-Server.dmg"
+                url="https://macreach.asoftlabs.app/MacReach-Server.dmg"
                 sparkle:edSignature="SppPfp7RT8N6Rk6Ladpl6/2cJxR/RL/0ctSWXX6ZJfHvHcQMEdfU7IjZodx9KMK6KtsHbQaQ5R3vfoJFxHxEAQ=="
                 length="3137754"
                 type="application/octet-stream"
