@@ -8,7 +8,7 @@
         <item>
             <title>MacReach Server 1.1</title>
             <pubDate>Tue, 27 May 2026 00:00:00 +0000</pubDate>
-            <sparkle:version>1</sparkle:version>
+            <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
             <description><![CDATA[
@@ -23,8 +23,8 @@
             ]]></description>
             <enclosure
                 url="https://macreach.asoftlabs.app/MacReach-Server.dmg"
-                sparkle:edSignature="MB5i3qceZiRqskZtgMDkuEi2D01n/usq7jgZBmOR4QQ8KY6zD/dX6O8tq7Bvrjc3+47brhS44GM90jm/1dYbAw=="
-                length="3137752"
+                sparkle:edSignature="ndzoPNqzkW1q4vNuCvE+UFVNle0Y6j9gXxHGc2H7BTQTX32l8h0qwXGPf4v3QKsGOLzT64st4+dd81zUHuu1DQ=="
+                length="3137804"
                 type="application/octet-stream"
             />
         </item>
