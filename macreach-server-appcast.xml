@@ -6,10 +6,10 @@
         <description>MacReach Server Updates</description>
         <language>en</language>
         <item>
-            <title>MacReach Server 1.0</title>
+            <title>MacReach Server 1.1</title>
             <pubDate>Tue, 27 May 2026 00:00:00 +0000</pubDate>
             <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <h2>MacReach Server 1.0</h2>
@@ -22,9 +22,9 @@
                 </ul>
             ]]></description>
             <enclosure
-                url="https://antons81.github.io/app-updates/MacReach-Server-1.0.dmg"
-                sparkle:edSignature="oFzpmmQW3jSf0WAFem3PvG7yhu29hXLoOLx75i2V8JStJPqnI79FeiD+CI94NbiRoJ0eqKR6ULKrZfttcO6MBA=="
-                length="0"
+                url="https://antons81.github.io/app-updates/MacReach-Server-1.1.dmg"
+                sparkle:edSignature="SppPfp7RT8N6Rk6Ladpl6/2cJxR/RL/0ctSWXX6ZJfHvHcQMEdfU7IjZodx9KMK6KtsHbQaQ5R3vfoJFxHxEAQ=="
+                length="3137754"
                 type="application/octet-stream"
             />
         </item>
